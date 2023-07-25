@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/leonoradiguzman1840.json",
     "label" : "Leonora di Guzman : dramma in musica"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/lafavorita1843.json",
+    "label" : "La favorita; opera in quattro atti, da rappresentarsi nell'I.R. Teatro alla Scala, l'autunno del MDCCCXLIII"
   } ]
 }

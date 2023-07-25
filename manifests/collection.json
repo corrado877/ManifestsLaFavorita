@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/lafavorita1843.json",
     "label" : "La favorita; opera in quattro atti, da rappresentarsi nell'I.R. Teatro alla Scala, l'autunno del MDCCCXLIII"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Daila1860.json",
+    "label" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860"
   } ]
 }

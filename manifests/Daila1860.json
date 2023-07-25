@@ -1,0 +1,1119 @@
+{
+  "@context" : "https://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Daila1860.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "The Internet Archive",
+  "cover" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2",
+  "description" : "Libretto by A. Royer, G. Nieuwenhuysen and A.E. Scribe, translated into Italian by C. Bassi, altered by G. Cencetti. Cf. Loewenberg. 32",
+  "label" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "title",
+    "value" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860"
+  }, {
+    "label" : "publisher",
+    "value" : "Roma, G. Olivieri, tipografo"
+  }, {
+    "label" : "date",
+    "value" : "1860"
+  }, {
+    "label" : "contributor",
+    "value" : "Fisher - University of Toronto"
+  }, {
+    "label" : "creator",
+    "value" : "Donizetti, Gaetano, 1797-1848. Royer, Alphonse, 1803-1875. Favorite. Vaëz, Gustave, 1812-1862 Favorite. Scribe, Eugène, 1791-1861. Favorite. Bassi, Calisto. Cencetti, Giuseppe"
+  } ],
+  "related" : "http://archive.org/details/dailadrammaliric00doni",
+  "seeAlso" : "https://archive.org/metadata/dailadrammaliric00doni",
+  "sequences" : [ {
+    "@context" : "https://iiif.io/api/image/2/context.json",
+    "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni/canvas/default",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$0/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4540,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$0/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$0/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$0/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4540,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$0",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2960
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2960
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$1/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$1/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$1/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$1",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$2",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$3/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$3/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$3/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$3",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$4/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$4/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$4/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$4",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$5/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$5/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$5/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$5",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$6/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$6/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$6/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$6",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$7/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$7/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$7/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$7",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$8/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$8/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$8/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$8",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "7",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$9/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$9/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$9/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$9",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "8",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$10/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$10/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$10/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$10",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "9",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$11/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$11/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$11/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$11",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "10",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$12/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$12/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$12/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$12/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$12",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "11",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$13/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$13/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$13/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$13/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$13",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "12",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$14/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$14/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$14/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$14",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "13",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$15/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4400,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$15/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$15/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$15/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4400,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$15",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "14",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$16/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$16/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$16/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$16/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$16",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "15",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$17/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$17/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$17/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$17/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$17",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "16",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$18/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$18/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$18/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$18/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$18",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "17",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$19/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$19/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$19/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$19/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$19",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "18",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$20/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$20/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$20/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$20/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$20",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "19",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$21/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$21/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$21/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$21/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$21",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "20",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$22/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$22/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$22/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$22/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$22",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "21",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$23/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$23/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$23/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$23/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$23",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "22",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$24/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$24/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$24/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$24/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$24",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "23",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$25/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$25/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$25/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$25/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$25",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "24",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$26/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4400,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$26/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$26/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$26/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4400,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$26",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "25",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$27/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4400,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$27/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$27/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$27/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4400,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$27",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "26",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$28/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$28/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$28/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$28/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$28",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "27",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$29/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$29/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$29/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$29/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$29",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "28",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$30/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$30/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$30/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$30/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$30",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "29",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$31/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$31/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$31/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$31/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$31",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "30",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$32/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$32/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$32/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$32/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$32",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "31",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$33/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$33/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$33/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$33/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$33",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "32",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$34/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$34/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$34/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$34/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$34",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "33",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$35/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$35/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$35/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$35/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$35",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "34",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$36/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$36/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$36/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$36/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$36",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$37/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$37/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$37/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$37/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$37",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$38/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4308,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$38/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$38/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$38/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4308,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$38",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2730
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2730
+    }, {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$39/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4540,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$39/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$39/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$39/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4540,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni$39",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2960
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2960
+    } ],
+    "label" : "default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://ia802808.us.archive.org/BookReader/BookReaderPreview.php?id=dailadrammaliric00doni&subPrefix=dailadrammaliric00doni&itemPath=/19/items/dailadrammaliric00doni&server=ia802808.us.archive.org&page=preview&"
+  },
+  "viewingHint" : "paged"
+}

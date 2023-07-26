@@ -1574,11 +1574,6 @@
           "width" : 2438
         }
       } ],
-      "otherContent" : [ {
-        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/101322395720230078636/ffc118fba1b25ed88976ab08d69f45db.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
-      } ],
       "label" : "55",
       "width" : 2438
     }, {
@@ -1605,11 +1600,6 @@
           },
           "width" : 2438
         }
-      } ],
-      "otherContent" : [ {
-        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/101322395720230078636/ac1f53037db9beadc094237cac6f9bc7.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ],
       "label" : "56",
       "width" : 2438

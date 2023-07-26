@@ -6,6 +6,11 @@
   "cover" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00roye$2",
   "description" : "55 pages ; 18 cm. \"Argomento\"--Page [3]; Emendation to scene II, page 11.--Page 55. Poetry by Alphonse Royer and Gustave Vaëz, with additions by Eugène Scribe, after Baculard d'Arnaud: Le comte de Comminges.--Grove Music Online, \"Donizetti, Gaetano: Works.\". \"Maestro alle ripetizione ed arpa. Melchiore Balbi; primo violino e direttore d'orchestra per le opere. Niccoló Maccari Spada; Primo violino e direttore d'orchestra pei balli. Alessandro Ghislanzoni.\"--Page [5]. \"Le scene del tutto nuove disegnate e dipinte dal sig. Alberto Colla; Il vestiario del tutto nuovo di proprietà dei sig. Pietro Rovaglia e Comp., fornitori dei R.R. teatri di Milano e Vienna; Macchinista ed illuminatore. Zaccharia Moroni.\"--Page [5]. \"Personaggi: ALFONSO XI. Sig. Achille de Bassini; LEONORA. Sig. Angiolina de Rieux; FERNADO. Sig. Giuseppe Perego; BALDASSARE. Secondo Torre; D. GASPARO. Sig. Giovanni Valerio; INES. Gaetana Borghi.\"--Page [6]. \"I riti dell'Indostan : azione eroica in cinque atti / di Antonio Monticini\"--Page [25]. Ballet scenario: pages 27-34. UNC Italian Opera Libretto Collection",
   "label" : "Leonora di Guzman : dramma in musica",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/a689bda180594e523d570fa2f8519b30/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "metadata" : [ {
     "label" : "title",
@@ -1569,6 +1574,11 @@
           "width" : 2438
         }
       } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationCanvas56.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "label" : "55",
       "width" : 2438
     }, {
@@ -1595,6 +1605,11 @@
           },
           "width" : 2438
         }
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationCanvas57.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "label" : "56",
       "width" : 2438

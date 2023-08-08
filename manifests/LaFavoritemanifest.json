@@ -72,8 +72,13 @@
           "width" : 877
         },
         "on" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529",
+        "otherContent" : [ {
+          "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListLaFavorite1840.json",
+          "@type" : "sc:AnnotationList",
+          "label" : "My annotations List"
+        } ],
         "thumbnail" : {
-          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/100,100/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/100,100/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "height" : 100,
@@ -82,11 +87,6 @@
       } ],
       "related" : ""
     } ]
-  } ],
-  "otherContent" : [ {
-    "@id" : "http://localhost:8888/annotation/1691407562101",
-    "@type" : "sc:AnnotationList",
-    "label" : "My fantastic annotations"
   } ],
   "structures" : [ {
     "@id" : "http://example.org/iiif/lafavorite/range/top",

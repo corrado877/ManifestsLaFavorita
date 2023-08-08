@@ -25,9 +25,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json",
     "label" : "La Favorite_1840"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json",
-    "label" : "La Favorite_1840"
   } ]
 }

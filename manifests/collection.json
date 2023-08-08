@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoraDiGuzman1840.json",
     "label" : "Leonora di Guzman : dramma in musica"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json",
+    "label" : "La Favorite_1840"
   } ]
 }

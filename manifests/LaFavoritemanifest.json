@@ -73,7 +73,7 @@
         },
         "on" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529",
         "otherContent" : [ {
-          "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListLaFavorite1840.json",
+          "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLaFavorite1840.json"
           "@type" : "sc:AnnotationList",
           "label" : "My annotations List"
         } ],

@@ -90,6 +90,11 @@
           "width" : 100
         }
       } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/114939477/880e779373eac141a773bdfd5a79c418.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     } ]
   } ],

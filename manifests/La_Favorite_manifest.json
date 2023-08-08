@@ -10,6 +10,11 @@
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Made by Binocoli",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/c94c934ab89d02fe1494223e9e43f8de/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "sequences" : [ {
     "@id" : "http://90d74ded-28c6-45f5-aae4-724df2dd7bba",
     "@type" : "sc:Sequence",

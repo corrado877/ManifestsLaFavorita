@@ -42,17 +42,17 @@
           "height" : 1282,
           "width" : 877
         },
-        "on" : "http://33993849-de63-4659-841e-4c2cc68f9c5d",
-        "thumbnail" : {
-          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/100,100/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "height" : 100,
-          "width" : 100
-        }
+        "on" : "http://33993849-de63-4659-841e-4c2cc68f9c5d"
       } ],
       "related" : "",
-      "metadata" : [ ]
+      "metadata" : [ ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/100,100/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 100,
+        "width" : 100
+      }
     }, {
       "@id" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529",
       "@type" : "sc:Canvas",
@@ -81,15 +81,15 @@
           "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLaFavorite1840.json",
           "@type" : "sc:AnnotationList",
           "label" : "My fantastic annotations"
-        } ],
-        "thumbnail" : {
-          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/100,100/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "height" : 100,
-          "width" : 100
-        }
+        } ]
       } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/100,100/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 100,
+        "width" : 100
+      },
       "otherContent" : [ {
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/114939477/880e779373eac141a773bdfd5a79c418.json",
         "@type" : "sc:AnnotationList",

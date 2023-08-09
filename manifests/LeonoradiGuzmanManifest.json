@@ -3,13 +3,43 @@
   "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json",
   "@type" : "sc:Manifest",
   "label" : [ "La Favorita (Leonora di Guzman) - 1842" ],
-  "metadata" : [ ],
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Leonora di Guzman : dramma in musica"
+  }, {
+    "label" : "Publisher",
+    "value" : "Padova : Tipografia Penada"
+  }, {
+    "label" : "Publication place",
+    "value" : "Padova"
+  }, {
+    "label" : "Subject",
+    "value" : "Operas -- Librettos. Ballets -- Scenarios"
+  }, {
+    "label" : "Date",
+    "value" : "1842"
+  }, {
+    "label" : "Language",
+    "value" : "Italian"
+  }, {
+    "label" : "Contributor",
+    "value" : "Music Library, University of North Carolina at Chapel Hill"
+  }, {
+    "label" : "Creator",
+    "value" : "Royer, Alphonse, 1803-1875, librettist"
+  }, {
+    "label" : "Translator",
+    "value" : "Francesco Zanetti"
+  } ],
   "description" : [ {
-    "@value" : "Ending of La Favorita (Leonora di Guzman) - 1842",
-    "@language" : "it"
+    "@value" : "Ending of La Favorita (Leonora di Guzman) - stage play of the year 1842",
+    "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Provided by Internet Archive",
+  "related" : "http://archive.org/details/leonoradiguzmand00roye",
+  "seeAlso" : "https://archive.org/metadata/leonoradiguzmand00roye",
   "sequences" : [ {
     "@id" : "http://3176a9fb-b272-42eb-be7a-d346edc77a11",
     "@type" : "sc:Sequence",
@@ -72,7 +102,6 @@
         },
         "on" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
       } ],
-      "related" : "",
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00roye-p57/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -86,6 +115,5 @@
     "@id" : "https://ia600909.us.archive.org/BookReader/BookReaderPreview.php?id=leonoradiguzmand00roye&subPrefix=leonoradiguzmand00roye&itemPath=/16/items/leonoradiguzmand00roye&server=ia600909.us.archive.org&page=preview&"
   },
   "structures" : [ ],
-  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "viewingDirection" : "left-to-right"
 }

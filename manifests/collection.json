@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json",
     "label" : [ "La Favorita (Leonora di Guzman) - 1842" ]
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/InternetArchiveManifest.json",
+    "label" : "Leonora di Guzman : dramma in musica"
   } ]
 }

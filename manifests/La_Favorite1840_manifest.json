@@ -66,11 +66,11 @@
       "related" : "",
       "metadata" : [ ],
       "thumbnail" : {
-        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/100,100/0/default.jpg",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",
         "format" : "image/jpeg",
-        "height" : 100,
-        "width" : 100
+        "height" : 250,
+        "width" : 150
       }
     }, {
       "@id" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529",
@@ -98,11 +98,11 @@
         "on" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529"
       } ],
       "thumbnail" : {
-        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/100,100/0/default.jpg",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",
         "format" : "image/jpeg",
-        "height" : 100,
-        "width" : 100
+        "height" : 250,
+        "width" : 150
       },
       "otherContent" : [ {
         "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLaFavorite1840.json",

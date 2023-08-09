@@ -129,5 +129,8 @@
       "canvases" : [ "http://87a65cb6-06db-4a28-b4d2-f210e2e50529" ]
     } ]
   } ],
+  "thumbnail" : {
+    "@id" : "https://iiif.archivelab.org/iiif/la-favorite-1840-frontespizio/full/full/0/default.png"
+  },
   "viewingDirection" : "left-to-right"
 }

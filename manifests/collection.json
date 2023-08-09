@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json",
     "label" : "La Favorite (1840)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json",
+    "label" : [ "La Favorita (Leonora di Guzman) - 1842" ]
   } ]
 }

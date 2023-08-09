@@ -1,0 +1,77 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoraDiGuzmanManifest.json",
+  "@type" : "sc:Manifest",
+  "label" : [ "La Favorita (Leonora di Guzman) - 1842" ],
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Ending of La Favorita (Leonora di Guzman) - 1842",
+    "@language" : "it"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Provided by Internet Archive",
+  "sequences" : [ {
+    "@id" : "http://3176a9fb-b272-42eb-be7a-d346edc77a11",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://888ab3f7-1ce8-453a-84f8-3632540835e1",
+      "@type" : "sc:Canvas",
+      "label" : "Page 54",
+      "height" : 2559,
+      "width" : 1625,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bb6f8597-b550-425c-b989-7a9f64bf1d98",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00-p56/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00-p56",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2559,
+          "width" : 1625
+        },
+        "on" : "http://888ab3f7-1ce8-453a-84f8-3632540835e1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b",
+      "@type" : "sc:Canvas",
+      "label" : "Page 55",
+      "height" : 2559,
+      "width" : 1625,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://34734f15-9524-496a-afa0-1d2b0e2fae36",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00roye-p57/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00roye-p57",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2559,
+          "width" : 1625
+        },
+        "on" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://888ab3f7-1ce8-453a-84f8-3632540835e1"
+  },
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "viewingDirection" : "left-to-right"
+}

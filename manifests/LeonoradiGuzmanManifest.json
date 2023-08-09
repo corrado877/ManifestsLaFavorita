@@ -76,7 +76,6 @@
         },
         "on" : "http://888ab3f7-1ce8-453a-84f8-3632540835e1"
       } ],
-      "related" : "",
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00-p56/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",

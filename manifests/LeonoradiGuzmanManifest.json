@@ -114,6 +114,22 @@
   "thumbnail" : {
     "@id" : "https://ia600909.us.archive.org/BookReader/BookReaderPreview.php?id=leonoradiguzmand00roye&subPrefix=leonoradiguzmand00roye&itemPath=/16/items/leonoradiguzmand00roye&server=ia600909.us.archive.org&page=preview&"
   },
-  "structures" : [ ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/leonoradiguzmand00roye/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/leonoradiguzmand00roye/range/page-56",
+      "@type" : "sc:Range",
+      "label" : "p.54",
+      "canvases" : [ "http://888ab3f7-1ce8-453a-84f8-3632540835e1" ]
+    }, {
+      "@id" : "http://example.org/iiif/lafavorite/range/page-57",
+      "@type" : "sc:Range",
+      "label" : "p.55",
+      "canvases" : [ "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b" ]
+    } ]
+  } ],
   "viewingDirection" : "left-to-right"
 }

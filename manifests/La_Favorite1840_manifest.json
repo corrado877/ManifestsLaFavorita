@@ -3,6 +3,7 @@
   "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json",
   "@type" : "sc:Manifest",
   "label" : "La Favorite (1840)",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "metadata" : [ {
     "label" : "title",
     "value" : "La Favorite. Opéra en quatre actes paroles de MM. Alphonse Royer et Gustave Vaez musique de M. Donizetti [...] représenté pour la première fois à Paris sur le théâtre de l'Académie... de Musique le 2 décembre 1840. - Paris : V. Dondey-Dupré, [1840]"
@@ -11,7 +12,7 @@
     "value" : "Tresse & Stock, Èditeur"
   }, {
     "label" : "date",
-    "value" : 1886
+    "value" : "1886"
   }, {
     "label" : "place of publication",
     "value" : "Paris"

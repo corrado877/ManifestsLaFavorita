@@ -1,0 +1,98 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/DailaManifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "La Favorita (Daila) - 1860",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860"
+  }, {
+    "label" : "Publisher",
+    "value" : "Roma, G. Olivieri, tipografo"
+  }, {
+    "label" : "Language",
+    "value" : "Italian"
+  }, {
+    "label" : "Date",
+    "value" : "1860"
+  }, {
+    "label" : "Contributor",
+    "value" : "Fisher - University of Toronto"
+  }, {
+    "label" : "Creator",
+    "value" : "Donizetti, Gaetano, 1797-1848. Royer, Alphonse, 1803-1875. Favorite. Vaëz, Gustave, 1812-1862 Favorite. Scribe, Eugène, 1791-1861. Favorite. Bassi, Calisto. Cencetti, Giuseppe"
+  } ],
+  "description" : [ {
+    "@value" : "Ending of La Favorita (Daila) - stage play of the year 1860",
+    "@language" : "en"
+  } ],
+  "related" : {
+    "@id" : "https://archive.org/details/dailadrammaliric00doni",
+    "label" : "Daila; dramma lirico in quattro atti, con musica. - Internet Archive"
+  },
+  "seeAlso" : {
+    "@id" : "https://archive.org/metadata/dailadrammaliric00doni",
+    "format" : "metadata/json",
+    "label" : "Internet Archive: metadata La Favorita (Daila)"
+  },
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Provided by Internet Archive",
+  "sequences" : [ {
+    "@id" : "http://ba34d61a-0c74-4a84-a124-2fc9a8129197",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://dbfcabfb-2a7c-4d46-a8e7-280123a2ac97",
+      "@type" : "sc:Canvas",
+      "label" : "Page 34",
+      "height" : 1325,
+      "width" : 839,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://261c846f-fa68-44c5-864d-a49f3d615bca",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni-p34_202308/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni-p34_202308",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1325,
+          "width" : 839
+        },
+        "on" : "http://dbfcabfb-2a7c-4d46-a8e7-280123a2ac97"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni-p34_202308/full/150,250/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 250,
+        "width" : 150
+      }
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://ia802808.us.archive.org/BookReader/BookReaderPreview.php?id=dailadrammaliric00doni&subPrefix=dailadrammaliric00doni&itemPath=/19/items/dailadrammaliric00doni&server=ia802808.us.archive.org&page=preview&"
+  },
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/dailadrammaliric00doni/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/dailadrammaliric00doni/range/page-34",
+      "@type" : "sc:Range",
+      "label" : "p.34",
+      "canvases" : [ "http://dbfcabfb-2a7c-4d46-a8e7-280123a2ac97" ]
+    } ]
+  } ],
+  "viewingDirection" : "left-to-right"
+}

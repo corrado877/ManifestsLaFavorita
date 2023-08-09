@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/InternetArchiveManifest.json",
     "label" : "Leonora di Guzman : dramma in musica"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/EldaManifest.json",
+    "label" : "La Favorita (Elda) - 1843"
   } ]
 }

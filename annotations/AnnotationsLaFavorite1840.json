@@ -21,7 +21,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -62,7 +62,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -95,7 +95,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -132,7 +132,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -169,7 +169,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -206,7 +206,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -224,10 +224,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Fernando&nbsp;",
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p><strong>Fernando&nbsp;</strong></p>"
+      "chars" : "<p><strong>Fernando</strong></p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
@@ -243,7 +243,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -280,7 +280,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -317,7 +317,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -354,7 +354,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -391,7 +391,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -412,7 +412,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Fernando&nbsp;\nAh padre &egrave; dessa! Mia Leonora.\n",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p><strong>Fernando&nbsp;</strong></p>\n<p>Ah padre &egrave; dessa! Mia Leonora.</p>"
+      "chars" : "<p><strong>Fernando</strong></p>\n<p>Ah padre &egrave; dessa! Mia Leonora.</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
       "@type" : "oa:Tag",
@@ -432,7 +432,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -469,7 +469,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -506,7 +506,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -547,7 +547,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -588,7 +588,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -625,7 +625,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -662,7 +662,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json"
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {

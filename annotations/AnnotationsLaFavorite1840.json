@@ -84,10 +84,14 @@
       "@type" : "dctypes:Text",
       "format" : "text/html",
       "chars" : "<p><strong>Scena settima e ultima</strong></p>"
-    } ],
+    } , {
+      "http://dev.llgc.org.uk/sas/full_text" : "Closing scene",
+      "@type" : "oa:Tag",
+      "chars" : "Closing scene"
+    }],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
-    "motivation" : [ "oa:commenting" ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2023-08-08T11:05:44",
     "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691492744042",
     "dcterms:modified" : "2023-08-08T11:05:44",

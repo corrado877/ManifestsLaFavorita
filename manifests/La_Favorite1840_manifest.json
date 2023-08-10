@@ -31,7 +31,7 @@
   "attribution" : "Provided by Internet Archive",
   "service" : {
     "profile" : "http://iiif.io/api/search/0/search",
-    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/c94c934ab89d02fe1494223e9e43f8de/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/f674b607da84f0dbd2b80e9af9c3fe5c/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
   },
   "sequences" : [ {

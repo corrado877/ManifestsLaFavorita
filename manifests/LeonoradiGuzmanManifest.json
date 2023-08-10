@@ -47,6 +47,11 @@
     "format" : "metadata/json",
     "label" : "Internet Archive: metadata Leonora di Guzman"
   },
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/2f59388bed5e1719f2ef782168f8cae8/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "sequences" : [ {
     "@id" : "http://3176a9fb-b272-42eb-be7a-d346edc77a11",
     "@type" : "sc:Sequence",
@@ -75,6 +80,11 @@
           "width" : 1625
         },
         "on" : "http://888ab3f7-1ce8-453a-84f8-3632540835e1"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLeonoradiGuzmanp54.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations List"
       } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00-p56/full/150,250/0/default.jpg",
@@ -107,6 +117,11 @@
           "width" : 1625
         },
         "on" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLeonoradiGuzmanp55.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations List"
       } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/leonoradiguzmand00roye-p57/full/150,250/0/default.jpg",

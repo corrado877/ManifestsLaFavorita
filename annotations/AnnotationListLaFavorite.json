@@ -1,0 +1,696 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Leonora",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Leonora</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Female speaker 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:44:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682250413",
+    "dcterms:modified" : "2023-08-10T15:45:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=127,249,109,30"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M236.04545,279.22539h-54.45455v0h-54.45455v-14.90909v-14.90909h54.45455h54.45455v14.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.12549,1,0],&quot;editable&quot;:true}\" id=\"rectangle_0dcfac78-962d-4450-ac76-48c543cf6d03\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#20ff00\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassare",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Baldassare</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:48:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682529926",
+    "dcterms:modified" : "2023-08-10T16:08:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=565,246,153,39"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M564.84472,245.78403h76.53734v0h76.53734v19.50045v19.50045h-76.53734h-76.53734v-19.50045z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.91373,0.52549,0.92941],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_99a9336d-d60b-463a-8c02-eb4258a05ecb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#e986ed\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scena settima e ultima",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Scena settima e ultima</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Closing scene",
+      "@type" : "oa:Tag",
+      "chars" : "Closing scene"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:42:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682159297",
+    "dcterms:modified" : "2023-08-10T16:05:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=355,185,200,45"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M355.47746,184.6297h100.08489v0h100.08489v22.25791v22.25791h-100.08489h-100.08489v-22.25791z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_1ec59749-bbb3-4e99-9705-5fb4e942befd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Leonora distesa a terra;&nbsp;&nbsp;Fernando che esce dal coro, e Baldassarre",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em><strong>Leonora</strong> distesa a terra;&nbsp;&nbsp;<strong>Fernando</strong> che esce dal coro, e <strong>Baldassarre</strong></em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "stage direction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Female speaker 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:07:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691683663919",
+    "dcterms:modified" : "2023-08-10T16:09:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=114,240,670,65"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M783.31818,305.33795h-334.90909v0h-334.90909v-32.63636v-32.63636h334.90909h334.90909v32.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_676503d3-9079-4f25-87aa-cc1ab364652a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassare\n(poi si volge verso gli altri) Sul peregrin novello, le vostre preci: ei pi&ugrave; non vive.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Baldassare</strong></p>\n<p>(<em>poi si volge verso gli altri</em>) Sul peregrin novello, le vostre preci: ei pi&ugrave; non vive.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:22:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691684551737",
+    "dcterms:modified" : "2023-08-10T16:26:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=242,562,544,90"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M241.5,562.15613h271.90909v0h271.90909v45.09091v45.09091h-271.90909h-271.90909v-45.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.81176,0.23137,0.23137],&quot;editable&quot;:true}\" id=\"rectangle_d97ddd75-35de-430f-9293-550e070b5096\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#cf3b3b\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassare",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Baldassare</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:51:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682699163",
+    "dcterms:modified" : "2023-08-10T16:22:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=318,566,151,37"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M318.03908,565.80604h75.45363v0h75.45363v18.50098v18.50098h-75.45363h-75.45363v-18.50098z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0.56471,0.99608],&quot;editable&quot;:true}\" id=\"rectangle_ce130c4a-586a-4089-8186-902f0a4f482e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff90fe\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando&nbsp;</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:45:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682355233",
+    "dcterms:modified" : "2023-08-10T15:46:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=344,331,113,30"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M344.31818,331.22539h56.63636v0h56.63636v15.18182v15.18182h-56.63636h-56.63636v-15.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_1f4ba756-3aa0-49e5-9386-199e2a1c07e5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T15:45:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682317447",
+    "dcterms:modified" : "2023-08-10T15:45:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=433,253,127,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M433.31818,252.86176h63.72727v0h63.72727v16v16h-63.72727h-63.72727v-16z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3225eac4-6d87-4201-a0ce-b0874bf93bd1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: 'Times New Roman'; font-size: medium;\">(poi si volge verso gli altri<span style=\"font-family: 'Times New Roman'; font-size: medium;\">)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">(</span><em>poi si volge verso gli altri</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">)</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "stage direction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:02:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691683373218",
+    "dcterms:modified" : "2023-08-10T16:23:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=472,575,116,22"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M587.92154,596.73038h-57.85643v0h-57.85643v-10.77129v-10.77129h57.85643h57.85643v10.77129z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cf5e274b-2a59-4453-ab2a-7a4c5db95975\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T15:46:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682398106",
+    "dcterms:modified" : "2023-08-10T15:46:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=394,518,135,23"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M394.22727,517.55267h67.36364v0h67.36364v11.45455v11.45455h-67.36364h-67.36364v-11.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e11c00fb-e14a-448e-b500-7331c2768d2b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "(speech included in the Italian translation but not in the original French text)\nBaldassare\nOh, chi vegg'io!\nFernando\nLeonora!\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>(<em>speech included in the Italian translation but not in the original French text</em>)</p>\n<p><strong>Baldassare</strong></p>\n<p>Oh, chi vegg'io!</p>\n<p><strong>Fernando</strong></p>\n<p>Leonora!</p>\n<p>&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
+      "@type" : "oa:Tag",
+      "chars" : "Dialog"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:51:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682674832",
+    "dcterms:modified" : "2023-08-10T16:19:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=376,395,158,33"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M375.82539,395.43937h79.11853v0h79.11853v16.49325v16.49325h-79.11853h-79.11853v-16.49325z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0.56471,0.99608],&quot;editable&quot;:true}\" id=\"rectangle_c139094a-211e-4069-a05f-9fdb654314af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff90fe\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The friars",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>The friars</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:05:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691683504932",
+    "dcterms:modified" : "2023-08-10T16:28:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=276,718,192,27"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M276.04545,717.61067h96v0h96v13.72727v13.72727h-96h-96v-13.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0.50588,0],&quot;editable&quot;:true}\" id=\"rectangle_caf65f7d-22d0-4ba9-adb5-83c8dedb6c31\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff8100\" stroke-width=\"7.13411\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando\n<span style=\"font-family: 'Times New Roman'; font-size: medium;\">Ah padre, &egrave; dessa!&nbsp;<span style=\"font-family: 'Times New Roman'; font-size: medium;\">Mia Leonora.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>\n<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Ah padre, &egrave; dessa!&nbsp;</span><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Mia Leonora.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
+      "@type" : "oa:Tag",
+      "chars" : "Dialog"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:10:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691683822686",
+    "dcterms:modified" : "2023-08-10T16:20:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=285,321,400,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M285.13636,320.79249h200.09091v0h200.09091v35.09091v35.09091h-200.09091h-200.09091v-35.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.81176,0.23137,0.23137],&quot;editable&quot;:true}\" id=\"rectangle_eae586de-3291-4df2-a330-e5af6b90211a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#cf3b3b\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-family: 'Times New Roman'; font-size: medium;\">(si abbassa verso il cadavere e riconoscendola<span style=\"font-family: 'Times New Roman'; font-size: medium;\">)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">(</span><em>si abbassa verso il cadavere e riconoscendola</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">)</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "stage direction"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:01:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691683294948",
+    "dcterms:modified" : "2023-08-10T16:03:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=127,458,640,27"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M127.23623,458.15025h319.89482v0h319.89482v13.70891v13.70891h-319.89482h-319.89482v-13.70891z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_9c32fef6-2960-4528-a259-9c81f6337180\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando\nAnch'io&nbsp;avr&ograve; diman la vostra prece.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>\n<p>Anch'io&nbsp;avr&ograve; diman la vostra prece.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T16:24:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691684684122",
+    "dcterms:modified" : "2023-08-10T16:24:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=177,689,405,24"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M176.95455,688.51976h202.36364v0h202.36364v11.90909v11.90909h-202.36364h-202.36364v-11.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b13ad4e2-06a1-471d-bdf8-343fc2a972ff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#cf3b3b\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T15:47:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691682462024",
+    "dcterms:modified" : "2023-08-10T16:25:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=397,660,141,23"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M396.90568,659.5972h70.5576v0h70.5576v11.5972v11.5972h-70.5576h-70.5576v-11.5972z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_c265436b-8f60-4960-b21d-cda6351cb7a2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassare\nSilenzio, ella &egrave; gi&agrave; spenta.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Baldassare</strong></p>\n<p>Silenzio, ella &egrave; gi&agrave; spenta.<br /><br /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T16:18:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691684319688",
+    "dcterms:modified" : "2023-08-10T16:26:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=110,427,690,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M109.68182,426.70158h345.09091v0h345.09091v43.27273v43.27273h-345.09091h-345.09091v-43.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.81176,0.23137,0.23137],&quot;editable&quot;:true}\" id=\"rectangle_60fb565e-cec3-4fc3-bb22-08da1e5520fd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#cf3b3b\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tutti\nOh Dio!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Tutti</strong></p>\n<p>Oh Dio!</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T16:27:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691684858003",
+    "dcterms:modified" : "2023-08-10T16:28:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=157,748,428,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M156.95455,748.06522h214.18182v0h214.18182v29.18182v29.18182h-214.18182h-214.18182v-29.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.81176,0.23137,0.23137],&quot;editable&quot;:true}\" id=\"rectangle_bf6bd949-d6eb-4f2f-84e9-eb1e0276d06d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#cf3b3b\" stroke-width=\"14.26822\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
+    } ]
+  } ],
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationListLaFavorite.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

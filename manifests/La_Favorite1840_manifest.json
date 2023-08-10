@@ -63,8 +63,6 @@
         },
         "on" : "http://33993849-de63-4659-841e-4c2cc68f9c5d"
       } ],
-      "related" : "",
-      "metadata" : [ ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -108,8 +106,7 @@
         "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLaFavorite1840.json",
         "@type" : "sc:AnnotationList",
         "label" : "My Annotations List"
-      } ],
-      "related" : ""
+      } ]
     } ]
   } ],
   "structures" : [ {

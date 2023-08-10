@@ -41,9 +41,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/DailaManifest.json",
     "label" : "La Favorita (Daila) - 1860"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/La_Favorite1840_manifest.json",
-    "label" : "La Favorite (1840)"
   } ]
 }

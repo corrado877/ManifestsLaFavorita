@@ -409,15 +409,19 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Fernando&nbsp;\nAh padre &egrave; dessa! Mia Leonora.\n&nbsp;",
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando&nbsp;\nAh padre &egrave; dessa! Mia Leonora.\n",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p><strong>Fernando&nbsp;</strong></p>\n<p>Ah padre &egrave; dessa! Mia Leonora.</p>\n<p>&nbsp;</p>"
+      "chars" : "<p><strong>Fernando&nbsp;</strong></p>\n<p>Ah padre &egrave; dessa! Mia Leonora.</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
       "@type" : "oa:Tag",
       "chars" : "Dialog"
-    } ],
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male speaker 1"
+    }],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
     "motivation" : [ "oa:commenting", "oa:tagging" ],

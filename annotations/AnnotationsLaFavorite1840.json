@@ -2,9 +2,9 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 3",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 3"
+      "chars" : "Male speaker 3"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Baldassare",
       "@type" : "dctypes:Text",

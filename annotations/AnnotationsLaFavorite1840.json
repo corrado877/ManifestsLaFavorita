@@ -2,9 +2,9 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 3"
+      "chars" : "Male speaker 2"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Baldassare",
       "@type" : "dctypes:Text",
@@ -39,18 +39,18 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "(parte presente nella traduzione italiana ma non nel testo originale francese)\nBaldassare\nOh, chi veggio io!\nFernando\nLeonora!",
+      "http://dev.llgc.org.uk/sas/full_text" : "(speech included in the Italian translation but not in the original French text)\nBaldassare\nOh, chi veggio io!\nFernando\nLeonora!",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>(parte presente nella traduzione italiana ma non nel testo originale francese)</p>\n<p><strong>Baldassare</strong></p>\n<p>Oh, chi veggio io!</p>\n<p><strong>Fernando</strong></p>\n<p>Leonora!</p>"
+      "chars" : "<p>(speech included in the Italian translation but not in the original French text)</p>\n<p><strong>Baldassare</strong></p>\n<p>Oh, chi veggio io!</p>\n<p><strong>Fernando</strong></p>\n<p>Leonora!</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 3"
+      "chars" : "Male speaker 2"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -113,9 +113,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "didascalia",
+      "http://dev.llgc.org.uk/sas/full_text" : "Stage direction",
       "@type" : "oa:Tag",
-      "chars" : "didascalia"
+      "chars" : "Stage direction"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Leonora, stesa a terra;&nbsp;&nbsp;<em style=\"font-family: 'Times New Roman'; font-size: medium;\">Fernando che esce dal coro, e Baldassarre",
       "@type" : "dctypes:Text",
@@ -155,9 +155,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -192,9 +192,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 3"
+      "chars" : "Male speaker 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -229,9 +229,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando&nbsp;</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -266,9 +266,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Leonora</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce femminile 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce femminile 1"
+      "chars" : "Female speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -298,14 +298,14 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Coro",
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
       "@type" : "oa:Tag",
-      "chars" : "Coro"
+      "chars" : "Chorus"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "I frati",
+      "http://dev.llgc.org.uk/sas/full_text" : "The friars",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p><strong>I frati</strong></p>"
+      "chars" : "<p><strong>The friars</strong></p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -340,9 +340,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>\n<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">(</span><em style=\"font-family: 'Times New Roman'; font-size: medium;\">poi si volge verso gli altri&nbsp;</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">)</span><br style=\"font-family: 'Times New Roman'; font-size: medium;\" /><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Sul peregrin novello,</span><br style=\"font-family: 'Times New Roman'; font-size: medium;\" /><span style=\"font-family: 'Times New Roman'; font-size: medium;\">le vostre preci: ei pi&ugrave; non vive.</span></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 3"
+      "chars" : "Male speaker 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -377,9 +377,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -414,9 +414,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando&nbsp;</strong></p>\n<p>Ah padre &egrave; dessa! Mia Leonora.</p>\n<p>&nbsp;</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "dialogo",
+      "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
       "@type" : "oa:Tag",
-      "chars" : "dialogo"
+      "chars" : "Dialog"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -446,9 +446,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "didascalia",
+      "http://dev.llgc.org.uk/sas/full_text" : "Stage direction",
       "@type" : "oa:Tag",
-      "chars" : "didascalia"
+      "chars" : "Stage direction"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "<em style=\"font-family: 'Times New Roman'; font-size: medium;\">si abbassa verso il cadavere e riconoscendola",
       "@type" : "dctypes:Text",
@@ -488,9 +488,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -525,9 +525,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong><br style=\"font-family: 'Times New Roman'; font-size: medium;\" /><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Silenzio, ella &egrave; gi&agrave; spenta.</span></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "dialogo",
+      "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
       "@type" : "oa:Tag",
-      "chars" : "dialogo"
+      "chars" : "Dialog"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -562,13 +562,13 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">(</span><em style=\"font-family: 'Times New Roman'; font-size: medium;\">poi si volge verso gli altri&nbsp;</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">)</span></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "didascalia",
+      "http://dev.llgc.org.uk/sas/full_text" : "Stage direction",
       "@type" : "oa:Tag",
-      "chars" : "didascalia"
+      "chars" : "Stage direction"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "coro",
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
       "@type" : "oa:Tag",
-      "chars" : "coro"
+      "chars" : "Chorus"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -603,9 +603,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>\n<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Anch'io</span><br style=\"font-family: 'Times New Roman'; font-size: medium;\" /><span style=\"font-family: 'Times New Roman'; font-size: medium;\">avr&ograve; diman la vostra prece.</span></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Voce maschile 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",
-      "chars" : "Voce maschile 2"
+      "chars" : "Male speaker 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -640,9 +640,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Tutti</strong></p>\n<p>Oh Dio!</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Coro",
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
       "@type" : "oa:Tag",
-      "chars" : "Coro"
+      "chars" : "Chorus"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",

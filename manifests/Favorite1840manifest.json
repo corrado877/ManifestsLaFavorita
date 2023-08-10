@@ -96,6 +96,11 @@
         },
         "on" : "http://af7ad9ba-93aa-468a-b25c-3778d041e192"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationListLaFavorite.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations List"
+      } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",

@@ -1,0 +1,123 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavorite1840manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "La Favorite (1840)",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "La Favorite. Opéra en quatre actes paroles de MM. Alphonse Royer et Gustave Vaez musique de M. Donizetti [...] représenté pour la première fois à Paris sur le théâtre de l'Académie... de Musique le 2 décembre 1840. - Paris : V. Dondey-Dupré, [1840]"
+  }, {
+    "label" : "Publisher",
+    "value" : "Tresse & Stock, Èditeur"
+  }, {
+    "label" : "Edition",
+    "value" : "Nouvelle Èdition"
+  }, {
+    "label" : "Date",
+    "value" : "1886"
+  }, {
+    "label" : "Publication Place",
+    "value" : "Paris"
+  }, {
+    "label" : "Language",
+    "value" : "French"
+  }, {
+    "label" : "Creator",
+    "value" : "Gaetano Donizetti, Alphonse Royer, Gustave Vaez,"
+  } ],
+  "description" : "Ending of La Favorite, French Version. Act Four, Scene Seven and Final.",
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Provided by Internet Archive",
+  "sequences" : [ {
+    "@id" : "http://90d74ded-28c6-45f5-aae4-724df2dd7bba",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://33993849-de63-4659-841e-4c2cc68f9c5d",
+      "@type" : "sc:Canvas",
+      "label" : "La Favorite_page42",
+      "height" : 1282,
+      "width" : 877,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fffc7ac7-f864-4561-ac42-006f6d6d33b5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1282,
+          "width" : 877
+        },
+        "on" : "http://33993849-de63-4659-841e-4c2cc68f9c5d"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p46/full/150,250/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 250,
+        "width" : 150
+      }
+    }, {
+      "@id" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529",
+      "@type" : "sc:Canvas",
+      "label" : "La_Favorite_page43",
+      "height" : 1282,
+      "width" : 877,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3cb12089-df70-4c46-9926-87c95b39b091",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1282,
+          "width" : 877
+        },
+        "on" : "http://87a65cb6-06db-4a28-b4d2-f210e2e50529"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-p47/full/150,250/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 250,
+        "width" : 150
+      }
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/lafavorite/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/lafavorite/range/page_46",
+      "@type" : "sc:Range",
+      "label" : "p.42",
+      "canvases" : [ "http://33993849-de63-4659-841e-4c2cc68f9c5d" ]
+    }, {
+      "@id" : "http://example.org/iiif/lafavorite/range/page_47",
+      "@type" : "sc:Range",
+      "label" : "p.43",
+      "canvases" : [ "http://87a65cb6-06db-4a28-b4d2-f210e2e50529" ]
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://iiif.archivelab.org/iiif/la-favorite-1840-frontespizio/full/full/0/default.png"
+  },
+  "viewingDirection" : "left-to-right"
+}

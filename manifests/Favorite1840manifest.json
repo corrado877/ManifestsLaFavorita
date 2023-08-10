@@ -3,6 +3,11 @@
   "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Favorite1840manifest.json",
   "@type" : "sc:Manifest",
   "label" : "La Favorite - French Version (1840)",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/4dd97a269a06b854d38d3db6817e9a4f/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "metadata" : [ {
     "label" : "Title",

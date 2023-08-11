@@ -1,0 +1,158 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T09:48:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691660885181",
+    "dcterms:modified" : "2023-08-10T09:48:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=118,364,135,54"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M117.57155,364.05519h67.61453v0h67.61453v27.09641v27.09641h-67.61453h-67.61453v-27.09641z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_55241fe7-77b4-40e3-b5c8-22842b275cb4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tutti Oh Dio!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Tutti</em> Oh Dio!</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-08-10T09:47:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691660843358",
+    "dcterms:modified" : "2023-08-10T09:47:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=105,356,1152,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M105.21009,355.81421h575.80784v0h575.80784v43.57836v43.57836h-575.80784h-575.80784v-43.57836z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_236f288f-3bb5-47dd-ab92-f7b7526e7bcf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#a01d20\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le vostre preci, ei pi&ugrave; non vive.\n<em style=\"font-family: 'Times New Roman'; font-size: medium;\">Fer<span style=\"font-family: 'Times New Roman'; font-size: medium;\">.&nbsp; Anch'io Avr&ograve; diman la vostra prece.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le vostre preci, ei pi&ugrave; non vive.</p>\n<p><em style=\"font-family: 'Times New Roman'; font-size: medium;\">Fer</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">.&nbsp; Anch'io Avr&ograve; diman la vostra prece.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T09:44:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691660649376",
+    "dcterms:modified" : "2023-08-11T14:00:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=78,149,1275,201"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M78.42693,149.0845h637.61514v0h637.61514v100.57842v100.57842h-637.61514h-637.61514v-100.57842z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.62745,0.11373,0.12549],&quot;editable&quot;:true}\" id=\"rectangle_a64331ba-8003-4a69-aea2-320059d96cc5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#a01d20\" stroke-width=\"25.63272\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Fernando</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-08-10T09:44:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1691660697409",
+    "dcterms:modified" : "2023-08-11T14:00:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LeonoradiGuzmanManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=106,221,123,65"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M105.89684,220.50626h61.4338v0h61.4338v32.59039v32.59039h-61.4338h-61.4338v-32.59039z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.05882,0.05882,0.9451],&quot;editable&quot;:true}\" id=\"rectangle_604bd72c-68d2-477e-b665-ac7b60f34d8b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0f0ff1\" stroke-width=\"25.63272\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://15a389d4-a9d2-4b13-85bd-44bb8275d02b"
+    } ]
+  } ],
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListGuzmanp54.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

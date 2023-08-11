@@ -150,10 +150,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"font-family: 'Times New Roman'; font-size: medium;\">Bal.(avvicinandosi al cadavere)Oh chi vegg&rsquo;io?&nbsp;Fer.&nbsp;&nbsp; Leonora!\n<p style=\"font-family: 'Times New Roman'; font-size: medium;\">&nbsp;",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"font-family: 'Times New Roman'; font-size: medium;\">Bal.(avvicinandosi al cadavere)Oh chi vegg&rsquo;io?&nbsp;Fer.&nbsp; Leonora!\n<p style=\"font-family: 'Times New Roman'; font-size: medium;\">",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p style=\"font-family: 'Times New Roman'; font-size: medium;\"><em>Bal.(avvicinandosi al cadavere)</em><br />Oh chi vegg&rsquo;io?&nbsp;<em>Fer.&nbsp;</em>&nbsp; Leonora!</p>\n<p style=\"font-family: 'Times New Roman'; font-size: medium;\">&nbsp;</p>"
+      "chars" : "<p style=\"font-family: 'Times New Roman'; font-size: medium;\"><em>Bal.(avvicinandosi al cadavere)</em><br />Oh chi vegg&rsquo;io?&nbsp;<em>Fer.&nbsp;</em>Leonora!</p>\n<p style=\"font-family: 'Times New Roman'; font-size: medium;\"></p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
       "@type" : "oa:Tag",

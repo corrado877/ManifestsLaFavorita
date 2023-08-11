@@ -45,9 +45,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Elda.json",
     "label" : "La Favorita (Elda) - 1843"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Elda.json",
-    "label" : "La Favorita (Elda) - 1843"
   } ]
 }

@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationLaFavorite1840.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLeonoradiGuzmanp55.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/Annotations2LaFavorite1840.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationListLaFavorite.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListGuzmanp55.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsGuzmanp54.json" ],
+  "otherContent" : [ "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationLaFavorite1840.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsLeonoradiGuzmanp55.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/Annotations2LaFavorite1840.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationListLaFavorite.json", "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListGuzmanp55.json" ],
   "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/collection.json",
   "label" : "All annotations loaded in corrado877/ManifestsLaFavorita project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"

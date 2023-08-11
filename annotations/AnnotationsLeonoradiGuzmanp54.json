@@ -44,9 +44,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -81,9 +81,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -118,9 +118,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Leonora</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
       "@type" : "oa:Tag",
-      "chars" : "Female speaker 1"
+      "chars" : "Female character  1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -155,13 +155,13 @@
       "format" : "text/html",
       "chars" : "<p style=\"font-family: 'Times New Roman'; font-size: medium;\"><em>Bal.(avvicinandosi al cadavere)</em><br />Oh chi vegg&rsquo;io?&nbsp;<em>Fer.&nbsp;</em>Leonora!</p>\n<p style=\"font-family: 'Times New Roman'; font-size: medium;\"></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character  2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -198,7 +198,7 @@
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -307,9 +307,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -339,9 +339,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Baldassare",
       "@type" : "dctypes:Text",
@@ -381,9 +381,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -418,9 +418,9 @@
       "format" : "text/html",
       "chars" : "<p><em style=\"font-family: 'Times New Roman'; font-size: medium;\">Bal.&nbsp;</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Silenzio, ella &egrave; gi&agrave; spenta,&nbsp;</span><span style=\"font-family: 'Times New Roman'; font-size: medium;\">(</span><em style=\"font-family: 'Times New Roman'; font-size: medium;\">poi si volge agli altri,)</em><span style=\"font-family: 'Times New Roman'; font-size: medium;\">&nbsp; </span><span style=\"font-family: 'Times New Roman'; font-size: medium;\">Sul peregrin novello </span><span style=\"font-family: 'Times New Roman'; font-size: medium;\"></span></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -459,13 +459,13 @@
       "@type" : "oa:Tag",
       "chars" : "dialogue"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -504,17 +504,17 @@
       "@type" : "oa:Tag",
       "chars" : "stage direction"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
       "@type" : "oa:Tag",
-      "chars" : "Female speaker 1"
+      "chars" : "Female character 1"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -549,9 +549,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",

@@ -82,9 +82,7 @@
       }
     } ]
   } ],
-  "thumbnail" : {
-    "@id" : "https://ia600502.us.archive.org/BookReader/BookReaderPreview.php?id=lafavoritaoperai00doni&subPrefix=lafavoritaoperai00doni&itemPath=/17/items/lafavoritaoperai00doni&server=ia600502.us.archive.org&page=preview&"
-  },
+  
   "structures" : [ {
     "@id" : "http://example.org/iiif/lafavoritaoperai00doni/range/top",
     "@type" : "sc:Range",

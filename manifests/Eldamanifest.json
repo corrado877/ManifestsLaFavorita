@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Eldamanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "La Favorita (Elda) - 1843",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "La favorita; opera in quattro atti, da rappresentarsi nell'I.R. Teatro alla Scala, l'autunno del MDCCCXLIII"
+  }, {
+    "label" : "Publisher",
+    "value" : "Milano, G. Truffi"
+  }, {
+    "label" : "Subject",
+    "value" : "Ballets"
+  }, {
+    "label" : "Date",
+    "value" : "1843"
+  }, {
+    "label" : "Language",
+    "value" : "Italian"
+  }, {
+    "label" : "Contributor",
+    "value" : "Fisher - University of Toronto"
+  }, {
+    "label" : "Creator",
+    "value" : "Donizetti, Gaetano, 1797-1848. Royer, Alphonse, 1803-1875. Favorite. Vaëz, Gustave, 1812-1862 Favorite. Scribe, Eugène, 1791-1861. Favorite. Bassi, Calisto. Vestris, Bernardo. Raja e le bajadere. Mussi, Antonio. Raja e le bajadere. Schira, Vincenzo. Raja e le bajadere"
+  } ],
+  "description" : [ {
+    "@value" : "Ending of La Favorita (Elda) - stage play of the year 1843",
+    "@language" : "en"
+  } ],
+  "related" : {
+    "@id" : "https://archive.org/details/lafavoritaoperai00doni/mode/2up",
+    "label" : "La favorita; opera in quattro atti - Internet Archive"
+  },
+  "seeAlso" : {
+    "@id" : "https://archive.org/metadata/lafavoritaoperai00doni",
+    "format" : "metadata/json",
+    "label" : "Internet Archive: metadata La Favorita (Elda)"
+  },
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Provided by Internet Archive",
+  "sequences" : [ {
+    "@id" : "http://376ebde1-de01-4971-a427-aa7fe405a272",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://2978253f-21a6-455a-9c16-1f074f5b6fed",
+      "@type" : "sc:Canvas",
+      "label" : "Page 36",
+      "height" : 1253,
+      "width" : 737,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c076189a-119a-47a3-9010-508621f2dd20",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lafavoritaoperai00doni-p36/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lafavoritaoperai00doni-p36",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1253,
+          "width" : 737
+        },
+        "on" : "http://2978253f-21a6-455a-9c16-1f074f5b6fed"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/lafavoritaoperai00doni-p36/full/150,250/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 250,
+        "width" : 150
+      }
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://ia600502.us.archive.org/BookReader/BookReaderPreview.php?id=lafavoritaoperai00doni&subPrefix=lafavoritaoperai00doni&itemPath=/17/items/lafavoritaoperai00doni&server=ia600502.us.archive.org&page=preview&"
+  },
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/lafavoritaoperai00doni/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/lafavoritaoperai00doni/range/page-36",
+      "@type" : "sc:Range",
+      "label" : "p.36",
+      "canvases" : [ "http://2978253f-21a6-455a-9c16-1f074f5b6fed" ]
+    } ]
+  } ],
+  "viewingDirection" : "left-to-right"
+}

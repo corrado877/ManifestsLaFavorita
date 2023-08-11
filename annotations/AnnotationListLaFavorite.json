@@ -7,9 +7,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Leonora</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
       "@type" : "oa:Tag",
-      "chars" : "Female speaker 1"
+      "chars" : "Female character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -44,9 +44,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -122,17 +122,17 @@
       "@type" : "oa:Tag",
       "chars" : "stage direction"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Female speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
       "@type" : "oa:Tag",
-      "chars" : "Female speaker 1"
+      "chars" : "Female character 1"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -167,9 +167,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>\n<p>(<em>poi si volge verso gli altri</em>) Sul peregrin novello, le vostre preci: ei pi&ugrave; non vive.</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -204,9 +204,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -241,9 +241,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando&nbsp;</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -273,9 +273,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character  1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
       "@type" : "dctypes:Text",
@@ -351,9 +351,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
       "@type" : "dctypes:Text",
@@ -393,13 +393,13 @@
       "format" : "text/html",
       "chars" : "<p>(<em>speech included in the Italian translation but not in the original French text</em>)</p>\n<p><strong>Baldassare</strong></p>\n<p>Oh, chi vegg'io!</p>\n<p><strong>Fernando</strong></p>\n<p>Leonora!</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Dialog",
       "@type" : "oa:Tag",
@@ -479,9 +479,9 @@
       "@type" : "oa:Tag",
       "chars" : "Dialog"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -548,9 +548,9 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Fernando\nAnch'io&nbsp;avr&ograve; diman la vostra prece.",
       "@type" : "dctypes:Text",
@@ -590,9 +590,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Fernando</strong></p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 1"
+      "chars" : "Male character 1"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
@@ -627,9 +627,9 @@
       "format" : "text/html",
       "chars" : "<p><strong>Baldassare</strong></p>\n<p>Silenzio, ella &egrave; gi&agrave; spenta.</p>"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Male speaker 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
       "@type" : "oa:Tag",
-      "chars" : "Male speaker 2"
+      "chars" : "Male character 2"
     }],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",

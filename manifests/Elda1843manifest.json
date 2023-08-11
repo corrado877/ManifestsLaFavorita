@@ -3,11 +3,21 @@
   "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Elda1843manifest.json",
   "@type" : "sc:Manifest",
   "label" : "La Favorita (Elda) - 1843",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Ending of La Favorita (Elda) - stage play of the year 1843",
     "@language" : "en"
   } ],
+  "related" : {
+    "@id" : "https://archive.org/details/lafavoritaoperai00doni/mode/2up",
+    "label" : "La favorita; opera in quattro atti - Internet Archive"
+  },
+  "seeAlso" : {
+    "@id" : "https://archive.org/metadata/lafavoritaoperai00doni",
+    "format" : "metadata/json",
+    "label" : "Internet Archive: metadata La Favorita (Elda)"
+  },
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Provided by Internet Archive",
   "sequences" : [ {

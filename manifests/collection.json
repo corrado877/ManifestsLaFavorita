@@ -43,10 +43,6 @@
     "label" : "La Favorite - French Version (1840)"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Elda1843manifest.json",
-    "label" : "La Favorita (Elda) - 1843"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Elda.json",
     "label" : "La Favorita (Elda) - 1843"
   } ]

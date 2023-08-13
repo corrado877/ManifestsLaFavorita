@@ -4,6 +4,11 @@
   "@type" : "sc:Manifest",
   "label" : "La Favorita (Daila) - 1860",
   "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/ba18855a583419e98d60dfd81981d35c/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Title",
     "value" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860"
@@ -69,6 +74,11 @@
           "width" : 839
         },
         "on" : "http://dbfcabfb-2a7c-4d46-a8e7-280123a2ac97"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsListDaila.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations List"
       } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/dailadrammaliric00doni-p34_202308/full/150,250/0/default.jpg",

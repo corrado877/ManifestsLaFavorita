@@ -11,10 +11,6 @@
     "label" : "Leonora di Guzman : dramma in musica"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/Daila1860.json",
-    "label" : "Daila; dramma lirico in quattro atti, con musica. Da rappresentarsi nel Teatro Apollo, l'autunno del 1860"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/LaFavoritemanifest.json",
     "label" : "La Favorite_1840"
   }, {

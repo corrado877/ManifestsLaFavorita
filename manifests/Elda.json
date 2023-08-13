@@ -4,6 +4,11 @@
   "@type" : "sc:Manifest",
   "label" : "La Favorita (Elda) - 1843",
   "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/9351e5ca0370db8f288b9934562f1fbf/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Title",
     "value" : "La favorita; opera in quattro atti, da rappresentarsi nell'I.R. Teatro alla Scala, l'autunno del MDCCCXLIII"
@@ -72,6 +77,11 @@
           "width" : 737
         },
         "on" : "http://2978253f-21a6-455a-9c16-1f074f5b6fed"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsElda.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations List"
       } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/lafavoritaoperai00doni-p36/full/150,250/0/default.jpg",

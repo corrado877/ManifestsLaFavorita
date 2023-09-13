@@ -41,9 +41,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/leonoraguzman.json",
     "label" : [ "La Favorita (Leonora di Guzman) - 1842" ]
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/manifest.json",
-    "label" : "Manuscrit reconstitué : Châteauroux, Bibliothèque municipale, ms. 5 (Grandes Chroniques de France)"
   } ]
 }

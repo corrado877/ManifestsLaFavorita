@@ -1,0 +1,799 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scena settima e ultima",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Scena settima e ultima</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Closing scene",
+      "@type" : "oa:Tag",
+      "chars" : "Closing scene"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:06:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053177503",
+    "dcterms:modified" : "2023-09-18T16:24:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=564,331,517,80"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M564.37594,331.00887h258.61106v0h258.61106v40.16893v40.16893h-258.61106h-258.61106v-40.16893z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_05dac7df-052a-4f4b-b91b-498e8cb4df08\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chorus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:28:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054513661",
+    "dcterms:modified" : "2023-09-18T16:28:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=143,1597,139,51"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.38129,1596.70524h69.40618v0h69.40618v25.43078v25.43078h-69.40618h-69.40618v-25.43078z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e85bf13a-4a8c-429e-868e-b862116ba70d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff7600\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Female character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lenonora",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lenonora</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:29:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054574589",
+    "dcterms:modified" : "2023-09-18T16:29:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=215,662,132,44"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M215.0449,661.82079h66.14874v0h66.14874v22.17334v22.17334h-66.14874h-66.14874v-22.17334z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1e0d3cca-1fd9-4a10-afeb-53664d28c6db\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008018\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "Stage direction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando che esce dal coro, e Baldassarre",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fernando che esce dal coro, e Baldassarre</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:34:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054886230",
+    "dcterms:modified" : "2023-09-18T16:34:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=135,460,610,67"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M135.2377,460.1854h304.75601v0h304.75601v33.57437v33.57437h-304.75601h-304.75601v-33.57437z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_77498daf-41c2-4a0b-b9a9-bf830cb1eb77\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sul peregrin novello, le vostre preci: ei pi&ugrave; non vive.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sul peregrin novello, le vostre preci: ei pi&ugrave; non vive.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dialog",
+      "@type" : "oa:Tag",
+      "chars" : "dialog"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:42:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055324263",
+    "dcterms:modified" : "2023-09-18T16:43:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=143,1287,748,48"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.38129,1286.59708h373.97655v0h373.97655v23.80206v23.80206h-373.97655h-373.97655v-23.80206z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.7098,0.13333,0.13333],&quot;editable&quot;:true}\" id=\"rectangle_ca2ae420-035d-489b-badf-e4d6fd412e54\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fernando</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:17:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053822132",
+    "dcterms:modified" : "2023-09-18T16:17:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=157,1406,206,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M156.73527,1406.2689h102.79491v0h102.79491v26.44873v26.44873h-102.79491h-102.79491v-26.44873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_153c2402-01b2-4d5b-9c7a-836a8a887151\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chorus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:28:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054496065",
+    "dcterms:modified" : "2023-09-18T16:28:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=469,480,69,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M469.125,480.38155h34.38873v0h34.38873v18.9159v18.9159h-34.38873h-34.38873v-18.9159z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a3863ad2-aef4-4294-9691-14e39fed6772\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff7600\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassarre&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Baldassarre&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:26:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054416171",
+    "dcterms:modified" : "2023-09-18T16:26:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=138,1151,250,51"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M138.49513,1151.08791h124.78261v0h124.78261v25.43078v25.43078h-124.78261h-124.78261v-25.43078z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_23f100f3-54ca-40ce-94f5-62dfebbe391f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "stage direction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "(si abbassa verso il cadavere riconoscendola",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>(si abbassa verso il cadavere riconoscendola</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:35:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054933517",
+    "dcterms:modified" : "2023-09-18T16:35:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,841,686,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.86641,841.30554h343.03089v0h343.03089v22.9877v22.9877h-343.03089h-343.03089v-22.9877z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_02eba1ea-539e-44b0-b911-ea4dfa627466\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Silenzio, ella &egrave; gi&agrave; spenta.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Silenzio, ella &egrave; gi&agrave; spenta.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dialog",
+      "@type" : "oa:Tag",
+      "chars" : "dialog"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:41:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055274660",
+    "dcterms:modified" : "2023-09-18T16:43:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=393,1156,365,54"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M392.57523,1156.2996h182.60212v0h182.60212v27.0595v27.0595h-182.60212h-182.60212v-27.0595z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.7098,0.13333,0.13333],&quot;editable&quot;:true}\" id=\"rectangle_0db5e1cd-05da-4336-9074-62ca6328d48b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ah padre, &egrave; dessa! Mia Leonora.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ah padre, &egrave; dessa! Mia Leonora.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dialog",
+      "@type" : "oa:Tag",
+      "chars" : "dialog"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:38:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055108693",
+    "dcterms:modified" : "2023-09-18T16:44:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,606,295,114"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.86641,606.11845h147.58467v0h147.58467v57.19079v57.19079h-147.58467h-147.58467v-57.19079z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.7098,0.13333,0.13333],&quot;editable&quot;:true}\" id=\"rectangle_47ad4f8a-dcbf-40be-9fdb-8fb35b20c915\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stage direction",
+      "@type" : "oa:Tag",
+      "chars" : "stage direction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "poi si volge verso gli altri",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>poi si volge verso gli altri</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:36:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054962061",
+    "dcterms:modified" : "2023-09-18T16:36:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,1224,412,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.86641,1224.38009h206.21854v0h206.21854v22.9877v22.9877h-206.21854h-206.21854v-22.9877z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d2eac20d-432a-4832-bb91-b4c3ba0db146\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassarre",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Baldassarre</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:26:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054369112",
+    "dcterms:modified" : "2023-09-18T16:26:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=136,776,272,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M135.99927,775.51747h135.784v0h135.784v26.44873v26.44873h-135.784h-135.784v-26.44873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_09ef1a4f-fcac-4381-9f53-475f1797d3c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fernando</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:15:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053756531",
+    "dcterms:modified" : "2023-09-18T16:15:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=144,539,218,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.93761,538.73954h108.75642v0h108.75642v19.83122v19.83122h-108.75642h-108.75642v-19.83122z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d5645aff-8413-41e4-bf3f-768b213a05fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Leonora!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Leonora!</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Female character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Female character 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:30:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695054601421",
+    "dcterms:modified" : "2023-09-18T16:36:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=360,1027,126,44"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M360.00086,1026.65374h62.8913v0h62.8913v22.17334v22.17334h-62.8913h-62.8913v-22.17334z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0.09412],&quot;editable&quot;:true}\" id=\"rectangle_93a83a24-8aec-4ab2-8c85-bc5dc7a14eb6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008018\" stroke-width=\"9.77231\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chorus",
+      "@type" : "oa:Tag",
+      "chars" : "Chorus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Oh Dio!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Oh Dio!</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:44:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055496918",
+    "dcterms:modified" : "2023-09-18T16:44:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=136,1668,191,48"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.15636,1667.65245h95.25455v0h95.25455v23.77818v23.77818h-95.25455h-95.25455v-23.77818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f5b5b747-2f12-4a4b-a8f8-a00cf3a52a7c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "dialog",
+      "@type" : "oa:Tag",
+      "chars" : "dialog"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Anch'io avr&ograve; diman la vostra prece.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Anch'io avr&ograve; diman la vostra prece.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:43:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055409057",
+    "dcterms:modified" : "2023-09-18T16:43:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,1481,520,43"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.86641,1481.06604h259.96625v0h259.96625v21.35898v21.35898h-259.96625h-259.96625v-21.35898z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d5851689-65a2-4949-be38-c253b0a44b17\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Oh, chi vegg'io!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Oh, chi vegg'io!</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:39:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695055159704",
+    "dcterms:modified" : "2023-09-18T16:44:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=143,907,271,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.38129,907.43138h135.36928v0h135.36928v32.76001v32.76001h-135.36928h-135.36928v-32.76001z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.7098,0.13333,0.13333],&quot;editable&quot;:true}\" id=\"rectangle_b714389f-53bf-43b3-a28c-519fe8efedd3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b52222\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fernando</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-09-18T16:12:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053549555",
+    "dcterms:modified" : "2023-09-18T16:15:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=147,474,148,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M147.09091,473.84088h74.18182v0h74.18182v20.09091v20.09091h-74.18182h-74.18182v-20.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_45d52838-b13e-4c48-8d31-39e612c69b18\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3.90484\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 2",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baldassarre",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Baldassarre</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:18:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053918097",
+    "dcterms:modified" : "2023-09-18T16:18:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=562,474,166,49"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M562.02982,473.90292h83.00145v0h83.00145v24.56364v24.56364h-83.00145h-83.00145v-24.56364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_31f5efda-cc46-470e-ab6d-df714ebf7589\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Male character 1",
+      "@type" : "oa:Tag",
+      "chars" : "Male character 1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fernando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fernando</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939477",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-09-18T16:16:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695053788240",
+    "dcterms:modified" : "2023-09-18T16:16:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=143,1022,208,54"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M142.73743,1021.96701h104.04443v0h104.04443v27.03228v27.03228h-104.04443h-104.04443v-27.03228z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f100a5a5-e1eb-4a8f-8535-b6d8b03f7a29\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.archivelab.org/iiif/la-favorita-jannetti/canvas"
+    } ]
+  } ],
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/annotations/AnnotationsJannetti.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

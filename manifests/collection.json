@@ -61,5 +61,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/FavoritaJannetti.json",
     "label" : "La Favorita (1841) - italian translation"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/FavoritaJannetti.json",
+    "label" : "La Favorita (1841) - italian translation"
   } ]
 }

@@ -1,0 +1,63 @@
+{
+  "@context" : "https://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://corrado877.github.io/ManifestsLaFavorita/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "The Internet Archive",
+  "description" : "Italian translation of La Favorite (1840 - French Version) - Seventh and last scene",
+  "label" : "La Favorita (1841) - italian translation",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "title",
+    "value" : "La Favorita (1841) - italian translation"
+  }, {
+    "label" : "subject",
+    "value" : "Ballets"
+  }, {
+    "label" : "Language",
+    "value" : "Italian"
+  }, {
+    "label" : "Translation",
+    "value" : "1st italian translation"
+  }, {
+    "label" : "date",
+    "value" : "1841"
+  }, {
+    "label" : "creator",
+    "value" : "Francesco Jannetti"
+  } ],
+  "seeAlso" : "https://archive.org/metadata/la-favorita-francesco-jannetti_20230919",
+  "sequences" : [ {
+    "@context" : "https://iiif.io/api/image/2/context.json",
+    "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/canvas/default",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@context" : "https://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/canvas",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 2339,
+      "images" : [ {
+        "@context" : "https://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 2339,
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 1654
+        }
+      } ],
+      "width" : 1654
+    } ],
+    "label" : "default"
+  } ],
+  "viewingHint" : "paged"
+}

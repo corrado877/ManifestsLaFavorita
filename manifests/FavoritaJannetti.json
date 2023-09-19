@@ -25,7 +25,12 @@
     "label" : "creator",
     "value" : "Francesco Jannetti"
   } ],
-  "seeAlso" : "https://archive.org/metadata/la-favorita-francesco-jannetti_20230919",
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "seeAlso" : {
+    "@id" : "https://archive.org/metadata/la-favorita-francesco-jannetti_20230919",
+    "format" : "metadata/json",
+    "label" : "Internet Archive: metadata La Favorita (1841) - italian translation"
+  },
   "sequences" : [ {
     "@context" : "https://iiif.io/api/image/2/context.json",
     "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/canvas/default",
@@ -56,7 +61,7 @@
         }
       } ],
       "thumbnail" : {
-        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti/full/150,250/0/default.jpg",
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",
         "format" : "image/jpeg",
         "height" : 250,

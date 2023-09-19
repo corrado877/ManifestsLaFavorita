@@ -6,6 +6,11 @@
   "description" : "Italian translation of La Favorite (1840 - French Version) - Seventh and last scene",
   "label" : "La Favorita (1841) - italian translation",
   "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114939477/c342c1718fe8c6d4663ba1ee5a205afb/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "title",
     "value" : "La Favorita (1841) - italian translation"
@@ -59,6 +64,11 @@
           },
           "width" : 1654
         }
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/114939477/6bdaffd9517a318391cdd3bd8eda76f9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My Annotations list"
       } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/full/150,250/0/default.jpg",

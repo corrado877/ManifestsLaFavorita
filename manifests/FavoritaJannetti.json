@@ -65,6 +65,11 @@
           "width" : 1654
         }
       } ],
+      "otherContent" : [ {
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/114939477/6bdaffd9517a318391cdd3bd8eda76f9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "thumbnail" : {
         "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti_20230919/full/150,250/0/default.jpg",
         "@type" : "dctypes:Image",

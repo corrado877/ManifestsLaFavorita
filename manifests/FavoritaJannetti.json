@@ -55,6 +55,13 @@
           "width" : 1654
         }
       } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archivelab.org/iiif/la-favorita-francesco-jannetti/full/150,250/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 250,
+        "width" : 150
+      },
       "width" : 1654
     } ],
     "label" : "default"
